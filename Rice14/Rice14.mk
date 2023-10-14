@@ -64,3 +64,12 @@ PRODUCT_BRAND := Jelly
 PRODUCT_NAME := Rice14
 PRODUCT_DEVICE := Rice14
 PRODUCT_MODEL := Android SDK built for x86_64 Rice14
+
+
+
+# Add execute exe
+PRODUCT_PACKAGES += \
+    hello \
+    hellojava \
+
+# End Add execute exe
